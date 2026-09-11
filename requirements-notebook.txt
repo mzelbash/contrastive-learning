@@ -1,0 +1,7 @@
+# Install matched torch and torchvision separately using the official PyTorch selector.
+numpy>=1.26,<3
+matplotlib>=3.8,<4
+tqdm>=4.66,<5
+pillow>=10,<13
+jupyterlab>=4,<5
+ipykernel>=6,<8

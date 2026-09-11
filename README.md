@@ -65,4 +65,4 @@ The data is downloaded to the runtime's local disk for speed. If Drive is enable
 
 After a reset, rerun the notebook with the same run name and settings. It resumes at the next completed-epoch boundary. A changed experiment needs a new run name. Only load your own checkpoints.
 
-For a first instructor run, confirm the debug pipeline, then benchmark homework mode on your Colab GPU. Do not set a mandatory accuracy threshold before reviewing that run.
+

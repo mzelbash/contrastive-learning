@@ -1,3 +1,7 @@
+# Contrastive Learning
+
+Live presentation demo at https://mzelbash.github.io/contrastive-learning/
+
 # SimCLR homework
 
 Open **SimCLR_CIFAR10_Homework.ipynb**. It contains the complete implementation, explanations, environment setup, and reflection prompts.

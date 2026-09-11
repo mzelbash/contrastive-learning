@@ -2,7 +2,7 @@
 
 Live presentation demo at https://mzelbash.github.io/contrastive-learning/
 
-# SimCLR homework
+# SimCLR SEAS-8525 Homework Week 2 
 
 Open **SimCLR_CIFAR10_Homework.ipynb**. It contains the complete implementation, explanations, environment setup, and reflection prompts.
 
